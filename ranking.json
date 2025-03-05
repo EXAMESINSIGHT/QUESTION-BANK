@@ -1,0 +1,39 @@
+{
+  "leaderboard": [
+    {
+      "username": "Expert1",
+      "score": 95,
+      "percentage": 95.0,
+      "rank": 1,
+      "badge": "Gold"
+    },
+    {
+      "username": "ProUser2",
+      "score": 88,
+      "percentage": 88.0,
+      "rank": 2,
+      "badge": "Silver"
+    },
+    {
+      "username": "QuizMaster3",
+      "score": 82,
+      "percentage": 82.0,
+      "rank": 3,
+      "badge": "Bronze"
+    }
+  ],
+  "user": {
+    "username": "CurrentUser",
+    "score": 0,
+    "percentage": 0.0,
+    "rank": 0,
+    "badge": "Participant"
+  },
+  "bestOfBest": {
+    "username": "Expert1",
+    "score": 95,
+    "percentage": 95.0,
+    "rank": 1,
+    "badge": "Platinum"
+  }
+}
